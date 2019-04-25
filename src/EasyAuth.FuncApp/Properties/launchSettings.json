@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FuncEasyAuth": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "WEBSITE_AUTH_ENABLED": "TRUE"
+      }
+    }
+  }
+}
